@@ -1,0 +1,63 @@
+.catalog1 {
+    display: flex;
+    flex-wrap: wrap;
+    border: ridge 3px red;
+   
+}
+header h1 {
+    text-align: center;
+}
+.catalog2 {
+display: flex;
+flex-wrap: wrap;
+    border: ridge 3px red;
+   
+
+
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+.catalog3 {
+    display: flex;
+flex-wrap: wrap;
+    border: ridge 3px red;
+    
+}
+.catalog4 {
+     display: flex;
+flex-wrap: wrap;
+    border: ridge 3px red;
+    
+}
+.catalog5 {
+     display: flex;
+flex-wrap: wrap;
+    border: ridge 3px red;
+    
+}
+.catalog6 {
+     display: flex;
+flex-wrap: wrap;
+ border: ridge 3px red;
+    
+}
+
+section img{
+    width: 200px;
+}
+
+section div{
+    width: 200px;
+    margin: 20px;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+footer img {
+    display: flex;
+    flex-wrap: wrap;
+}
